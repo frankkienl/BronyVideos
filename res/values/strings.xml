@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BronyVideos</string>
+    <string name="title_video_detail">Video Detail</string>
+    <string name="video">Video</string>
+    <string name="videos">Videos</string>
+    <string name="playlist">Playlist</string>
+    <string name="playlists">Playlists</string>
+    <string name="view_video">View Video</string>
+    <string name="title_activity_main">BronyVideos</string>
+    <string name="action_settings">Settings</string>
+    <string name="communication_title">Please Wait...</string>
+    <string name="communication_message">Fetching video data...</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="title_activity_playlist">Playlist</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_video">Video</string>
+
+</resources>
