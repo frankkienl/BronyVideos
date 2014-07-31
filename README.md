@@ -7,8 +7,6 @@ This app makes it easier to watch MLP Episodes (from Dailymotion) on Google TV d
 The dailymotion 'app' (its more like a mobile website) is not really optimized for Google TV.
 This application uses the Dailymotion APIs to get the video information.
 
-Download APK: https://github.com/frankkienl/BronyVideos/raw/master/BronyVideos/BronyVideos.apk
-
 ![Screenshot](https://raw.github.com/frankkienl/BronyVideos/master/screenshots/device-2013-06-26-232256.png "Screenshots")
 
 Licence
