@@ -39,4 +39,3 @@ tl;dr: MIT-Licence, you can use this, also for commerical use, as long as you ke
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
     OTHER DEALINGS IN THE SOFTWARE.
 
-This file was created by Android Studio (I/O Preview) AI-130.721168 for binding GitHub repository
